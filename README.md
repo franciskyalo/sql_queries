@@ -4,6 +4,12 @@
 
 Here are all the sql queries used:
 
+To clone the repo, use the following:
+`
+git clone https://github.com/franciskyalo/sql_queries.git
+
+`
+
 ![carbon](https://github.com/franciskyalo/sql_queries/assets/94622826/91278dcf-8377-4dcd-a5de-4b3e604c5b3f)
 
 ![carbon (1)](https://github.com/franciskyalo/sql_queries/assets/94622826/d2fe7d4a-8672-46b9-a829-e3030d01ab7c)
