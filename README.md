@@ -1,8 +1,8 @@
 # **SQL QUERIES WORLD DATABASE🛢**
-
+---
 ## Project Description
 This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. I utilized Python, Pandas, and MySQL to query and analyze the data, showcasing various SQL operations, stored procedures, and views.
-
+---
 ## Relationship Entity Diagram
 The database consists of the following tables:
 
@@ -18,6 +18,18 @@ To clone the repo, use the following:
 ```
 git clone https://github.com/franciskyalo/sql_queries.git
 ```
+
+Ensure you have python version greater than `3.8`
+
+To Create a virtual enviroment:
+```
+python -m venv newenviroment
+```
+To activate the enviroment use:
+```
+.\venv\Scripts\activate
+```
+
 
 ![carbon](https://github.com/franciskyalo/sql_queries/assets/94622826/91278dcf-8377-4dcd-a5de-4b3e604c5b3f)
 
