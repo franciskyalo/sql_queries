@@ -1,7 +1,11 @@
 # **SQL QUERIES WORLD DATABASE🛢**
 ---
 ## Project Description
-This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. We utilize Python, Pandas, and MySQL to query and analyze the data, showcasing various SQL operations, stored procedures, and views.
+This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. We utilize Python, Pandas, and MySQL to query and analyze the data, showcasing various including:
+
+* SQL operations
+* stored procedures
+* Views.
 
 ---
 ## Relationship Entity Diagram
