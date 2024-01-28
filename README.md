@@ -8,7 +8,7 @@ This project focuses on analyzing data from the WORLD database, which includes t
 * Views.
 
 ---
-## Relationship Entity Diagram
+## Entity Relationship Diagram
 The database consists of the following tables:
 
 **city**: Contains information about cities, including their names, country codes, districts, and populations.
