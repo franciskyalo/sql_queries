@@ -1,4 +1,7 @@
 # **SQL QUERIES WORLD DATABASE🛢**
+![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/SQL-Expert-brightgreen.svg
+) 
+
 ---
 ## Project Description
 This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. We utilize Python, Pandas, and MySQL to query and analyze the data, showcasing various including:
