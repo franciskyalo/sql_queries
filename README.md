@@ -1,7 +1,8 @@
 # **SQL QUERIES WORLD DATABASE🛢**
 ---
 ## Project Description
-This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. I utilized Python, Pandas, and MySQL to query and analyze the data, showcasing various SQL operations, stored procedures, and views.
+This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. We utilize Python, Pandas, and MySQL to query and analyze the data, showcasing various SQL operations, stored procedures, and views.
+
 ---
 ## Relationship Entity Diagram
 The database consists of the following tables:
@@ -12,6 +13,7 @@ The database consists of the following tables:
 
 ![ERD (1)](https://github.com/franciskyalo/sql_queries/assets/94622826/f6d9eaf5-58cf-479c-8d1c-118b1e840b19)
 
+---
 Here are all the sql queries used:
 
 To clone the repo, use the following:
