@@ -1,5 +1,7 @@
 # **SQL QUERIES WORLD DATABASE🛢**
 
+In this project i used the world database in `MySQL` to query the data
+
 ![ERD (1)](https://github.com/franciskyalo/sql_queries/assets/94622826/f6d9eaf5-58cf-479c-8d1c-118b1e840b19)
 
 Here are all the sql queries used:
