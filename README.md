@@ -1,6 +1,6 @@
 # **SQL QUERIES WORLD DATABASE🛢**
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/SQL-brightgreen.svg
-) ![Static Badge](https://img.shields.io/badge/Jupyter_Notebook-orange.svg)
+) ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-lightblue?logo=pandas&logoColor=white)
 
 ---
 ## Project Description
