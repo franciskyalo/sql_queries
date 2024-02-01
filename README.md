@@ -3,7 +3,7 @@
 ) ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-lightblue?logo=pandas&logoColor=white)
 
 ---
-## Project Description
+## Project Description✒️
 This project focuses on analyzing data from the WORLD database, which includes three key tables: city, country, and countrylanguage. The aim is to gain insights into global demographics, language distribution, and regional characteristics. We utilize Python, Pandas, and MySQL to query and analyze the data, showcasing various including:
 
 * SQL operations
@@ -11,7 +11,7 @@ This project focuses on analyzing data from the WORLD database, which includes t
 * Views.
 
 ---
-## Entity Relationship Diagram
+## Entity Relationship Diagram🤝🏽
 The database consists of the following tables:
 
 **city**: Contains information about cities, including their names, country codes, districts, and populations.
